@@ -2,3 +2,4 @@ target/
 **/bin
 abc.log
 *.jar
+a.html
