@@ -1,3 +1,3 @@
-+ bin/bash/demo!
-+
-+echo[INFO] Git hub
+#!bin/bash
+
+echo "[INFO] Git hub"
